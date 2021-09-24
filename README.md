@@ -3,10 +3,10 @@
 ## Some content
 
 ### Topics:
-* [Array]
+* [Array](https://github.com/anchitctrl/Array)
 * [Linked List](https://github.com/anchitctrl/Linked-List)
-* [Stack]
-* [Queue]
-* [Binary Tree]
-* [Binary Search Tree]
-* [Graph]
+* [Stack](https://github.com/anchitctrl/Stack)
+* [Queue](https://github.com/anchitctrl/Queue)
+* [Binary Tree](https://github.com/anchitctrl/Binary-Tree)
+* [Binary Search Tree](https://github.com/anchitctrl/Binary-Search-Tree)
+* [Graph](https://github.com/anchitctrl/Graph)
