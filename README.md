@@ -3,4 +3,4 @@
 ## Some content
 
 ### Topics:
-* [Linked List](linked-List)
+* [Linked List](Linked-List)
