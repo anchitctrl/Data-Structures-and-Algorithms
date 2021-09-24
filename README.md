@@ -3,4 +3,4 @@
 ## Some content
 
 ### Topics:
-* [Linked List](TimeComplexityDemo.java)
+* [Linked List](https://github.com/anchitctrl/Linked-List)
